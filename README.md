@@ -1,5 +1,3 @@
-# language-translation
-
 # Hindi Text Summarization Using Neural Networks
 
 ## Introduction
