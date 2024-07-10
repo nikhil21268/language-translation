@@ -26,25 +26,6 @@ The `hindi_train.csv` dataset used in this project comprises around 20,000 artic
 - PyTorch 1.8+
 - Transformers Library
 
-### Installation
-Clone the repository and install the required packages:
-```bash
-git clone https://github.com/your-github/hindi-text-summarization.git
-cd hindi-text-summarization
-pip install -r requirements.txt
-```
-
-### Running the Models
-To train the models, run:
-```bash
-python train.py
-```
-
-To summarize text using a trained model, run:
-```bash
-python summarize.py --model <model_name> --input <input_file.txt>
-```
-
 ## Results
 
 Our findings indicated that IndicBART outperformed the other models on various performance metrics, including BERT and ROUGE scores. Detailed results and performance metrics are available in the `results` section of this repository.
